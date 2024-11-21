@@ -1,6 +1,6 @@
 ---
-title: Teaching
-summary: My courses
+title: CS Python Introductory course 234128
+summary: Teaching Assistant
 type: landing
 
 cascade:
